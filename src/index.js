@@ -1,6 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './Components/App';
-import './css/style.css';
+import {render} from 'react-dom';
+import HOC from './HOC';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+render(<HOC.Filter/>, document.getElementById('root'));
