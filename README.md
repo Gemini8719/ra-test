@@ -1,2 +1,3 @@
 # ra-test
-# Диплом https://github.com/Gemini8719/ra-test/
+# Диплом https://Gemini8719.github.io/ra-test/
+
